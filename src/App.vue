@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  <nav id="nav" class="navbar-expand-lg navbar-light bg-light">
+  <nav id="nav" class="navbar-expand-lg navbar-light">
 
   <a class="navbar-brand" href="#">
     <img src="@/assets/tfpu.png" height="40" 
@@ -54,7 +54,7 @@
   color: #2c3e50;
 }
 
-nav {
+#nav {
   padding: 30px;
 
   a {
