@@ -4,7 +4,7 @@
     <div class="col-7">
       <instagram-card />
     </div>
-    <div class="col-3">... ovdje ide desni stupac!</div>
+    <div class="col-3">... Ovdje ce biti desni stupac!</div>
   </div>
 </template>
 
